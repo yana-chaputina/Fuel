@@ -1,1 +1,2 @@
 [![Build Status](https://travis-ci.org/yana-chaputina/Fuel.svg?branch=master)](https://travis-ci.org/yana-chaputina/Fuel)
+[![codecov](https://codecov.io/gh/yana-chaputina/Fuel/branch/master/graph/badge.svg)](https://codecov.io/gh/yana-chaputina/Fuel)
